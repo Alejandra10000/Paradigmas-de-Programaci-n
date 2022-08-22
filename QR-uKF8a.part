@@ -1,0 +1,29 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++                                 INSTRUCTIVO
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+   
+    * ls/dir     -> comando para listar lo que hay en el directorio
+    * mk/dir     -> comando para crear un directorio
+    * cd         -> cambiar de  directorio
+    * pwd        -> directorio actual
+    * nm         -> borrar archivo
+    * cd..       -> directorio anterior 
+    * cd../../.. -> 3 direcciones anteriores
+    
+
+    * i           -> insertar
+    * x           -> borrar
+    * R           -> remplazar
+    * :wq         -> salir y guardar
+    * :w          -> guardar
+    * q!          -> salir y no guardar nada
+    * $           -> ir a la ultima linea
+    * o           -> abre reglon de abajo
+    * O           -> abre renglon de arriba
+    * dd          -> borrar la linea donde estoy
+    * /palabra    -> sirve para  borrar la palabra
+    * n           -> proxima aparicion de la palabra
+
+
+
+
+Hecho por: Alejandra Sánchez Barajas
